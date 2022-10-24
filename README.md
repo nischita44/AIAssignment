@@ -81,7 +81,12 @@ The assignments will be graded out of 75 points.
 15 points: In addition to the above requirements, the program always returns optimal routes. In other words, no shorter route exists than the one reported by the program.
 10 points: Correct implementation of any informed search method. Please note that you only need to make one submission that meets this and all previous requirements to get credit for all the parts.
 Negative points: penalty points will be awarded by the instructor and TA generously and at will, for issues such as: submission not including precise and accurate instructions for how to run the code, wrong compression format for the submission, or other failures to comply with the instructions given for this assignment. Partial credit for incorrect solutions will be given ONLY for code that is well designed and well documented. Code that is badly designed and badly documented can still get credit only as long as it accomplishes the required tasks.
-Task 2
+
+
+# Task 2
+
+![image](https://user-images.githubusercontent.com/20515803/197437014-df3416fe-6139-4d96-a478-b7e9dc617bbd.png)
+
 Max: [4308: 75 Points, 5360: 75 Points]
 Gameplay for Max-Connect4
 Figure 2: Examples of Moves made in a game of Max-Connect4
